@@ -10,4 +10,34 @@
         android:layout_height="match_parent"
         android:text="Shake to get a toast and to switch color" />
 
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="92dp"
+        android:layout_marginTop="114dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/cordiX"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="cordiX"/>
+
+    <TextView
+        android:id="@+id/cordiY"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="cordiY"/>
+
+    <TextView
+        android:id="@+id/cordiZ"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="cordiZ"/>
+
+
 </LinearLayout>
